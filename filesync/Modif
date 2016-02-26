@@ -1,0 +1,5 @@
+Fichiers modifiés : SocketIoService
+		    Server.js
+		    index.html
+
+But : Copier le code du dernier élément et dire au serveur qui a copié le code.
